@@ -33,10 +33,12 @@ Part 2: https://www.facebook.com/icml.imls/videos/2970931166257998/
 
 ### 10. DPG
 - Deterministic Policy Gradient Algorithms
-- https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#dpg
+- 영문판 참고 : https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#dpg
+- 한글판 참고 : https://reinforcement-learning-kr.github.io/2018/06/27/2_dpg/
 
 ### 11. DDPG
 - Continuous Control with Deep Reinforcement Learning
+- Policy Gradient 공부 순서 : https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/
 
 ### 12. IRL
 - 논문 : Generative Adversarial Imitation Learning
