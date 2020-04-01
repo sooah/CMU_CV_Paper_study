@@ -29,6 +29,7 @@ Part 2: https://www.facebook.com/icml.imls/videos/2970931166257998/
 
 ### 9. Learning to Learn How to Learn
 - Learning to Learn How to Learn: Self-Adaptive Visual Navigation using Meta-Learning
+- Learning to Learn 참고 : https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/
 
 ### 10. DPG
 - Deterministic Policy Gradient Algorithms
